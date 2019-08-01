@@ -2,7 +2,7 @@
 
 ![Despeckled SAR image](./images/cover.jpg "Despeckled SAR image")
 
-<center> SAR image before and after despeckling </center>
+<p align="center">SAR image before and after despeckling </p>
 
 ## Principal components
 
