@@ -17,7 +17,7 @@ quasi-ground-truth images, and significantly outperformed the filters in terms o
 
 ![Despeckled SAR image](./images/cover.jpg "Despeckled SAR image")
 
-# <p align="center">SAR image before and after despeckling </p>
+**<p align="center">SAR image before and after despeckling </p>**
 
 ## Principal components
 
