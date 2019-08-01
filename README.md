@@ -1,6 +1,8 @@
 # Learned SAR Speckle Filter
 
-![Despeckled SAR image](./images/lin_vv.jpg "Despeckled SAR image")
+![Despeckled SAR image](./images/cover.jpg "Despeckled SAR image")
+
+<center> SAR image before and after despeckling </center>
 
 ## Principal components
 
