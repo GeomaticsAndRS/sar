@@ -2,6 +2,7 @@
 # Learned SAR Speckle Filter: Despeckling Synthetic-Aperture Radar images using a Deep Residual Convolutional Neural Network
 
 **Tim Davis**, **Vinit Jain**
+
 **Abstract**:
 
 _Synthetic Aperture Radar (SAR) images suffer from the effects of speckle noise which arises from coherent
@@ -16,7 +17,7 @@ quasi-ground-truth images, and significantly outperformed the filters in terms o
 
 ![Despeckled SAR image](./images/cover.jpg "Despeckled SAR image")
 
-<p align="center">SAR image before and after despeckling </p>
+# <p align="center">SAR image before and after despeckling </p>
 
 ## Principal components
 
