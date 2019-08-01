@@ -1,4 +1,18 @@
-# Learned SAR Speckle Filter
+
+# Learned SAR Speckle Filter: Despeckling Synthetic-Aperture Radar images using a Deep Residual Convolutional Neural Network
+
+**Tim Davis**, **Vinit Jain**
+**Abstract**:
+
+_Synthetic Aperture Radar (SAR) images suffer from the effects of speckle noise which arises from coherent
+summation of the signals scattered from ground scatters distributed randomly within each pixel. Speckling
+affects the human- and machine-readability of the images. Here, we propose to use deep learning to train
+a convolutional neural network model that outputs a despeckled SAR image. Convolutional Neural network
+architectures such as Noise2Noise and Noise2Void have been proven successful when the ground truth of the
+input image is not available. Hence, the primary goal of this research project is to train a deep residual CNN
+to ameliorate speckling in SAR images based on noisy input only. Lee and BM3D filters were evaluated to
+compare the results. The CNN models performed comparably to the filters in terms when evaluating against
+quasi-ground-truth images, and significantly outperformed the filters in terms of processing efficiency._
 
 ![Despeckled SAR image](./images/cover.jpg "Despeckled SAR image")
 
